@@ -1,0 +1,6 @@
+/src/ofxstatement_cd_rawbank.egg-info/
+/dist/
+/build/
+.idea
+/src/ofxstatement/out/
+/src/ofxstatement/examples/test.csv
